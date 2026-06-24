@@ -9,7 +9,7 @@
   
   --color-primary: #ffffff;
   --color-primary-foreground: #171717;
-  --color-gold: #E62E2E;
+  --color-gold: #E8B800;
 }
 
 :root {
@@ -74,7 +74,7 @@ body {
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #E62E2E;
+  background: #E8B800;
 }
 
 .split-char {
